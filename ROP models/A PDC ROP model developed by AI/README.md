@@ -1,16 +1,31 @@
-# Open Source ROP Modeling
+# Developing PDC ROP model using Artificial Inteligence
+
+In this section, we learn how to use symbolic regression algorithm to develope a PDC ROP model. 
+
+#### Symbolic Regression Algorithm
 
 
-In this repository, the ROP models along with data from liturature are provided.
-The goal is to gather the drilling rate of penetration models for both PDC and roller cone bits.
-The ROP models are compared versus data from the liturature in python. 
-This is an opensource repository and collaborations are welcomed.
+---
 
+#### Python library
 
-### Repository structure
+The PySR library is used in this study. check out the the PySR website [here](https://pysr.readthedocs.io/en/latest/docs/getting-started/).
+
+---
+#### Repository structure
 
 ```
-├───.ipynb_checkpoints
-└───Codes
-
+└───A PDC ROP model developed by AI
+    ├───Archive
+    └───Data
 ```
+
+#### Bits 
+
+
+
+<p align="left">
+  <img  width="600" src="Images/NOV_bits.PNG" >
+  <img  width="600" src="Images/Ulterra_bits.PNG" >
+</p>
+
