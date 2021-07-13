@@ -1,6 +1,6 @@
 # Developing PDC ROP model using Artificial Inteligence
 
-In this section, we learn how to use symbolic regression algorithm to develope a PDC ROP model. 
+In this section, a PDC ROP model was developed using symbolic regression algorithm. 
 
 #### Symbolic Regression Algorithm
 
