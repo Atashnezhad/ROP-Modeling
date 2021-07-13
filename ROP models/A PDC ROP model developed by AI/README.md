@@ -42,14 +42,14 @@ The four row of data used in this syduy are seen at the following table.
 
 #### Data Dimensions
 
-WOB is in lbf
-ROP data is in ft/hr
-Db is in inch
-RPM is in rpm
-UCS is in psi
-NOC is dimensionless
-BR is dimensionless
-Dc is in inch
-NOB is dimensionless
+* WOB is in lbf
+* ROP data is in ft/hr
+* Db is in inch
+* RPM is in rpm
+* UCS is in psi
+* NOC is dimensionless
+* BR is dimensionless
+* Dc is in inch
+* NOB is dimensionless
 
 
