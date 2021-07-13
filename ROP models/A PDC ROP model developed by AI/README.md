@@ -25,7 +25,7 @@ The PySR library is used in this study. check out the the PySR website [here](ht
 
 
 <p align="left">
-  <img  width="600" src="Images/NOV_bits.PNG" >
-  <img  width="600" src="Images/Ulterra_bits.PNG" >
+  <img  width="450" src="Images/NOV_bits.PNG" >
+  <img  width="450" src="Images/Ulterra_bits.PNG" >
 </p>
 
