@@ -30,8 +30,9 @@ PDC bits manufactured by National Oil Varco - NOV (left) and Ulterra (right) are
 </p>
 
 #### Data
-
 The four row of data used in this syduy are seen at the following table.
+
+###### Table
 
 |   year | name       |     WOB |   ROP data |   Db |   RPM |   UCS |   NOC |   BR |   SR |   Dc |   NOB |
 |--------|------------|---------|------------|------|-------|-------|-------|------|------|------|-------|
@@ -40,7 +41,7 @@ The four row of data used in this syduy are seen at the following table.
 |   2019 | SWG        | 3538.7  |   19.5     | 3.75 |    80 | 28000 |    11 |   25 |    1 | 0.51 |     4 |
 |   2019 | SWG        | 4066.2  |   28.6     | 3.75 |    80 | 28000 |    11 |   25 |    1 | 0.51 |     4 |
 
-#### Data Dimensions
+###### Data Dimensions
 
 * WOB is in lbf
 * ROP data is in ft/hr
