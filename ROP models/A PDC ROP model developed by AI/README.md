@@ -6,17 +6,17 @@ A PDC ROP model was developed using symbolic regression algorithm.
 * The data was published in ARMA conference 55TH US ROCK MECHANICS / GEOMECHANICS SYMPOSIUM 18-25 June 2021 Online.
 * Paper titel is "ROP Model for PDC Bits in Geothermal Drilling". Please check out the Paper in the Paper folder.
 
-#### Symbolic Regression Algorithm
+### Symbolic Regression Algorithm
 
 
 
 
-#### Python library
+### Python library
 
 The PySR library is used in this study. check out the the PySR website [here](https://pysr.readthedocs.io/en/latest/docs/getting-started/).
 
 
-#### Repository structure
+### Repository structure
 
 ```
 ├───Archive
@@ -26,7 +26,7 @@ The PySR library is used in this study. check out the the PySR website [here](ht
 └───Paper
 ```
 
-#### Bits 
+### Bits 
 
 
 PDC bits manufactured by National Oil Varco - NOV (left) and Ulterra (right) are seen at the following image.
@@ -35,7 +35,7 @@ PDC bits manufactured by National Oil Varco - NOV (left) and Ulterra (right) are
   <img  width="450" src="Images/Ulterra_bits.PNG" >
 </p>
 
-#### Data
+### Data
 The four row of data used in this syduy are seen at the following table.
 
 ###### Table
@@ -59,7 +59,7 @@ BR is dimensionless
 Dc is in inch
 NOB is dimensionless
 ```
-#### Results
+### Results
 
 The following equation was found using symbolic regression algorithm.
 ```
@@ -76,5 +76,5 @@ The following figures compares the data versus above ROP model (foudn by AI).
 </p>
 
 
-#### Suggestions
+### Suggestions
 
