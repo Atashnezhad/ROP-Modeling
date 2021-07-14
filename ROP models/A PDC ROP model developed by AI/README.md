@@ -65,11 +65,11 @@ ROP = (pow((((((RPM + 98.457596) / Dc) * WOB) / (UCS - WOB)) - NOB) - NOC, 1.134
 The following figures compares the data versus above ROP model (foudn by AI).
 
 <p align="left">
-  <img  width="450" src="Figures/Comparison between PDC ROP Model found by AI and ROP DATA.png" >
+  <img  width="450" src="Figures/Comparison between PDC ROP Model found by AI and ROP DATA.PNG" >
 </p>
 
 <p align="left">
-  <img  width="450" src="Figures/ModelvsData.png" >
+  <img  width="450" src="Figures/ModelvsData.PNG" >
 </p>
 
 
