@@ -1,10 +1,10 @@
-# Developing PDC ROP model using Artificial Inteligence
+# Developing PDC ROP model using Artificial Intelligence
 
 A PDC ROP model was developed using symbolic regression algorithm. 
 
 * In this study, we use the Sandia National Lab and National Oil Varco full PDC bit data.
 * The data was published in ARMA conference 55TH US ROCK MECHANICS / GEOMECHANICS SYMPOSIUM 18-25 June 2021 Online.
-* Paper titel is "ROP Model for PDC Bits in Geothermal Drilling". Please check out the Paper in the Paper folder.
+* Paper title is "ROP Model for PDC Bits in Geothermal Drilling". Please check out the Paper in the Paper folder.
 
 ### Symbolic Regression Algorithm
 
@@ -13,7 +13,7 @@ A PDC ROP model was developed using symbolic regression algorithm.
 
 ### Python library
 
-The PySR library is used in this study. check out the the PySR website [here](https://pysr.readthedocs.io/en/latest/docs/getting-started/).
+The PySR library is used in this study. check out the PySR website [here](https://pysr.readthedocs.io/en/latest/docs/getting-started/).
 
 
 ### Repository structure
@@ -36,7 +36,7 @@ PDC bits manufactured by National Oil Varco - NOV (left) and Ulterra (right) are
 </p>
 
 ### Data
-The four row of data used in this syduy are seen at the following table.
+The four-row of data used in this study are seen in the following table.
 
 ###### Table
 ```
@@ -65,7 +65,7 @@ The following equation was found using symbolic regression algorithm.
 ```
 ROP = (pow((((((RPM + 98.457596) / Dc) * WOB) / (UCS - WOB)) - NOB) - NOC, 1.1348255) * 0.31298584)
 ```
-The following figures compares the data versus above ROP model (foudn by AI).
+The following figures compare the data versus above ROP model (found by AI).
 
 <p align="left">
   <img  width="1400" src="Figures/Comparison between PDC ROP Model found by AI and ROP DATA.png" >
