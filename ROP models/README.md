@@ -1,6 +1,6 @@
 # Here there are ROP models
 
-The structure is seen at the followign:
+The structure is seen at the following:
 
 ```
 └───ROP models
