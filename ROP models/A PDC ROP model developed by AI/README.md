@@ -2,6 +2,10 @@
 
 A PDC ROP model was developed using symbolic regression algorithm. 
 
+* In this study, we use the Sandia National Lab and National Oil Varco full PDC bit data.
+* The data was published in ARMA conference 55TH US ROCK MECHANICS / GEOMECHANICS SYMPOSIUM 18-25 June 2021 Online.
+* Paper titel is "ROP Model for PDC Bits in Geothermal Drilling". Please check out the Paper in the Paper folder.
+
 #### Symbolic Regression Algorithm
 
 
