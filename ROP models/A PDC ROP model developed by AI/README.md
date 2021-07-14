@@ -57,4 +57,21 @@ The four row of data used in this syduy are seen at the following table.
 * Dc is in inch
 * NOB is dimensionless
 
+#### Results
+
+The following equation was found using symbolic regression algorithm.
+ROP = (pow((((((RPM + 98.457596) / Dc) * WOB) / (UCS - WOB)) - NOB) - NOC, 1.1348255) * 0.31298584)
+
+The following figures compares the data versus above ROP model (foudn by AI).
+
+<p align="left">
+  <img  width="450" src="Figures/Comparison between PDC ROP Model found by AI and ROP DATA.png" >
+</p>
+
+<p align="left">
+  <img  width="450" src="Figures/ModelvsData.png" >
+</p>
+
+
+#### Suggestions
 
