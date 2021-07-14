@@ -10,7 +10,12 @@ This is an opensource repository and collaborations are welcomed.
 ### Repository structure
 
 ```
-├───.ipynb_checkpoints
-└───Codes
-
+└───ROP models
+    └───A PDC ROP model developed by AI
+        ├───.ipynb_checkpoints
+        ├───Archive
+        ├───Data
+        ├───Figures
+        ├───Images
+        └───Paper
 ```
