@@ -78,7 +78,7 @@ The following figures compare the data versus above ROP model (found by AI).
 
 
 <p align="left">
-  <img  width="450" src="Figures/Sensitivity_analysis_1.png" >
+  <img  width="600" src="Figures/Sensitivity_analysis_1.png" >
   <img  width="450" src="Figures/Sensitivity_analysis_2.png" >
 </p>
 
