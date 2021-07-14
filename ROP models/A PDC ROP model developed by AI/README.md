@@ -19,9 +19,11 @@ The PySR library is used in this study. check out the the PySR website [here](ht
 #### Repository structure
 
 ```
-└───A PDC ROP model developed by AI
-    ├───Archive
-    └───Data
+├───Archive
+├───Data
+├───Figures
+├───Images
+└───Paper
 ```
 
 #### Bits 
