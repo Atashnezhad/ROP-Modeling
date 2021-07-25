@@ -14,3 +14,9 @@ https://atashnezhad.github.io/Drilling-ROP-Modeling/
 ## [Akhtarmanesh et al. PDC ROP Model (2021)](https://github.com/Atashnezhad/ROP-Modeling/tree/main/Akhtarmanesh%20et%20al%20PDC%20ROP%20model)
 
 This is an anlaytical model developed for hard rocks (geothermal wells). The model was used for ROP simulation using python language. The sensitivity analysis is provided in the following figure. The SALib library was used for sensitivity analysis.
+
+<p float="center">
+  <img width="500" src="download.png" >
+</p>
+
+
