@@ -6,6 +6,7 @@ The goal is to gather the drilling rate of penetration models for both PDC and r
 The ROP models are compared versus data from the liturature in python. 
 This is an opensource repository and collaborations are welcomed.
 
+https://atashnezhad.github.io/Drilling-ROP-Modeling/
 
 ### Repository structure
 
