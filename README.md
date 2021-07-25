@@ -1,4 +1,4 @@
-# Open Source ROP Modeling
+# Rate of Penetration (ROP) Modeling
 
 
 In this repository, the ROP models along with data from liturature are provided.
