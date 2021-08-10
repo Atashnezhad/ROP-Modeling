@@ -1,7 +1,7 @@
 # Welcome to the Rate of Penetration (ROP) Modeling Webpage
 
 I am Amin Atashnezhad, a Post-doctoral fellow at Oklahoma State University. I received my Ph.D. in chemical engineering in 2019 focusing on drilling rate of penetration modeling.
-Last five years I have had the opportunity to dive deep into drilling engineering focusing on the drilling rate of penetration.
+Last five years I have had the opportunity to dive into drilling engineering focusing on the drilling rate of penetration.
 My Ph.D. dissertation entitles was "[Incorporating the interfacial friction angle into the full bit PDC ROP modeling](https://github.com/Atashnezhad/PhD_Dissertation)" which I developed a set of analytical equations to simulate the PDC ROP in hard rocks considering the single PDC cutter behavior into account.
 
 
